@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App3 Pedra, Papel ou Tesoura</string>
+    <string name="escolha_do_app">Escolha do App</string>
+    <string name="escolha_botoes">Escolha um dos botões abaixo</string>
+    <string name="tesoura">tesoura</string>
+    <string name="pedra">pedra</string>
+    <string name="papel">papel</string>
+    <string name="vc_perdeu">Vc Perdeu :(</string>
+    <string name="vc_ganhou">Vc Ganhou :)</string>
+    <string name="empate">Empatamos :/</string>
+</resources>
